@@ -1,0 +1,7 @@
+{
+  "name": "One Stop Service ",
+  "description": "A comprehensive government service portal with dedicated roles for Citizens, Admins, and Service Providers to manage public requests and approvals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
